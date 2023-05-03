@@ -1,1 +1,1 @@
-Read me for Shell basics project
+0x07-networking_basics
